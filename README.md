@@ -1,6 +1,10 @@
-### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielLimaG3&show_icons=true&theme=dark)
+## Tecnologias Que Eu Uso
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+
+
 <!--
 **GabrielLimaG3/GabrielLimaG3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
